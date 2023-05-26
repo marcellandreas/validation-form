@@ -1,0 +1,45 @@
+#root {
+  background-image: url("../public/back.jpg");
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  background: transparent !important;
+  border-radius: 20px !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1) !important;
+}
+
+input,
+select,
+textarea {
+  background: transparent !important;
+  outline: none;
+  color: white !important;
+  border-radius: 30px !important;
+}
+
+button {
+  display: inline-block;
+  border: none;
+  background-color: teal !important;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+label {
+  color: white;
+}
+h3 {
+  color: antiquewhite;
+  letter-spacing: 3px;
+}
+
+span {
+  color: aliceblue;
+}
+
+option {
+  color: black;
+}
